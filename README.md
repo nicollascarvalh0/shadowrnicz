@@ -14,7 +14,7 @@
 <img align="left" height=202 src="https://github-readme-streak-stats-git-main-nicollas-projects-ad77adcc.vercel.app/?user=nicollas&theme=radical"/>
 <img align="left" height=97 src="https://github-profile-trophy.vercel.app/?username=nicollas&theme=radical&no-frame=true&title=Stars,Follo
 
-
+------------------------------------------------------------------------------------------------------------------------
 ## 🌀 Tecnologias
 <div style="display: inline_block"><br>
   <img align="center" alt="Nick-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
