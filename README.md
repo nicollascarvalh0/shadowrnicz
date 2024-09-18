@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bc407b&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Nícollas+Carvalho;++++:%29)](https://git.io/typing-svg)
 
-- Estudante do SESI PAULISTA, 2°F
+- Estudante do SESI PAULISTA 2°F,
+-  Cursando Desenvolvimento de Sistemas (2/3) 
 - Apaixonado em poesia, gatinhos & rock
 ---------------------------------------------------------------------------------
 
