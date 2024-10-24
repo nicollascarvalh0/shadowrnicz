@@ -4,9 +4,14 @@
 
 
 
+
+
 - Estudante do SESI PAULISTA, 2°F,
 -  Cursando Desenvolvimento de Sistemas (2/3) 
 - Apaixonado em poesia, gatinhos & rock
+
+
+
 
 
 
